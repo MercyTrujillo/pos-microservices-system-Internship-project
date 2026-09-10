@@ -1,7 +1,7 @@
-# POS & CPQ Microservices System
+# POS Microservices System
 
 ## Overview
-Designed and developed a web-based Point of Sale (POS) system for CPQ (Configure, Price, Quote), focused on payment processing, ticket generation, and receipt management.
+Designed and developed a web-based Point of Sale (POS) system focused on payment processing, ticket generation, and receipt management.
 
 ## Architecture
 This system is built using a microservices architecture, where each service handles a specific domain:
