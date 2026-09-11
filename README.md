@@ -14,7 +14,7 @@ This system is built using a microservices architecture, where each service hand
 
 ## Repositories
 
-- Order → https://github.com/MercyTrujillo/order-service
+- Order → https://github.com/MercyTrujillo/Order-service
 - Product Order→https://github.com/MercyTrujillo/product-order-service
 - Product →https://github.com/MercyTrujillo/product-service
 - Customer → https://github.com/MercyTrujillo/customer-service
