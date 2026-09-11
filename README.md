@@ -13,11 +13,12 @@ This system is built using a microservices architecture, where each service hand
 - Ticket / Receipt Service
 
 ## Repositories
-- Order → https://github.com/MercyTrujillo/order
-- Product → https://github.com/MercyTrujillo/products
-- Customer → https://github.com/MercyTrujillo/Customer
-- Payment → https://github.com/MercyTrujillo/PaymentProject
-- Microservices → https://github.com/MercyTrujillo/orderMicroservice
+
+- Order → https://github.com/MercyTrujillo/order-service
+- Product Order→https://github.com/MercyTrujillo/product-order-service
+- Product →https://github.com/MercyTrujillo/product-service
+- Customer → https://github.com/MercyTrujillo/customer-service
+
 
 ## Tech Stack
 - Java + Spring Boot
